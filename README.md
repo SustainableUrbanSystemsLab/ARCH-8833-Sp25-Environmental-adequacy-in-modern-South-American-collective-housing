@@ -6,17 +6,17 @@ File locations:
 2 - Rhinocero models and ClimateStudio analysis files can be found in the link below (they were not uploaded due to GitHub's storage limitations):
 https://1drv.ms/f/c/7f0cd2b9d40f94b7/EnBedykBQtJKjMMBs4RBCX4BkkNnjPTw4YFlKYOVU3Auyg?e=cwm2uE
 
-How to run experiment:
-Open Rhino file, run Climate Studio analysis.
+Required software for running experiment:
+Rhinoceros 8, ClimateStudio.
 
 Times chosen for analysis:
-09:00 AM
-15:00 PM
+1. 09:00 AM
+2. 15:00 PM
 
 Dates chosen for analysis:
-21 June (Winter solstice)
-22 September (Equinox)
-21 December (Summer solstice)
+1. 21 June (Winter solstice)
+2. 22 September (Equinox)
+3. 21 December (Summer solstice)
 
 Modeling generalizations:
 1. Simple walls were modeled with a thickness of 18 centimeters and double or reinforced walls were modeled
