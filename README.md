@@ -32,10 +32,10 @@ with 25 centimeters.
 Grasshoppper definitions for generating standardized musharabya and brise-soleil are also attached.
 
 Materials used:
-Matte White Wall
-Wood Floor
-Clear-clear glazing
-Dupont Clay
+1. Matte White Wall
+2. Wood Floor
+3. Clear-clear glazing
+4. Dupont Clay
 
 Ground albedo setting: 0,2
 
