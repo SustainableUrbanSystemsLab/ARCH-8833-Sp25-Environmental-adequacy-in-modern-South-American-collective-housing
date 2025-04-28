@@ -1,5 +1,5 @@
 # datadrivedmethods
-Materials developed for Patrik Kastner's course on data-driven methods for sustainable architecture (GeorgiaTech)
+Materials developed for Patrick Kastner's course on data-driven methods for sustainable architecture (GeorgiaTech)
 
 File locations:
 1 - Spreadsheet with results can be found in the repository's main branch (00 - DAYLIGHT ANALYSIS).
