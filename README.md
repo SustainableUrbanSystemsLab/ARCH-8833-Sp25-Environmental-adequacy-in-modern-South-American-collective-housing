@@ -91,9 +91,8 @@ Key findings:
 
 1. 🧾 **Download Files**
    - Clone this repo or download ZIP.
-   - Get `models/`, `scripts/`, and `data/`.
-   - For the model of Pedregulho, please download in the link below (too heavy for Github):
-   - https://1drv.ms/u/c/7f0cd2b9d40f94b7/EUa3VagZOjVAkNQObHNpLbYBNgVYa2_ibvql_bfxp6GGig?e=eYUhwW
+   - Get `scripts/`, and download models and performance reports in the link below:
+   - https://1drv.ms/u/c/7f0cd2b9d40f94b7/EbbYP4i8NJRBk9iChpRlT3sBRrjMjIzf_Y7Ya1PhmRS5FQ?e=0eFAG1
 
 2. 💻 **Install Tools**
    - Rhino 8 with Grasshopper
