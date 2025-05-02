@@ -116,8 +116,8 @@ Key findings:
 ```
 .
 ├── data
-│   ├── jnavarrete_daylightanalysis_LA...
-│   └── jnavarrete_literaturereview_LAM...
+│   ├── jnavarrete_daylightanalysis_LAModern.xlsx
+│   └── jnavarrete_literaturereview_LAModern.xlsx
 ├── images
 │   ├── ASE.jpg
 │   ├── SDA.jpg
@@ -128,7 +128,8 @@ Key findings:
 │   ├── gh_brisesoleilhorizontal.gh
 │   ├── gh_musharabyah.gh
 │   └── README.md
-└── SustainableArchitecture_JNavarrete.gh
+└── SustainableArchitecture_JNavarrete_28April2025.pdf
+└── README.md
 ```
    
 
