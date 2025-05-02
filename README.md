@@ -6,7 +6,7 @@ Welcome to the official repository for the study **“Environmental adequacy in 
 
 This project examines claims made by the 1955 MoMA exhibition *Latin American Architecture Since 1945*, which argued that regional modernism incorporated effective environmental controls. Using computational daylight simulations, this study evaluates **six tropical housing projects** to test those claims empirically.
 
-![Comparison](images/comparison.png)
+![Comparison](images/comparison.jpg)
 
 ---
 
@@ -79,11 +79,11 @@ Key findings:
 - Orientation (angle from North) plays a significant role in performance—even without shading devices.
 - High ASE and variation = poor environmental adequacy (e.g., Reidy’s Pedregulho).
 
-![Daylight Behavior](images/medianlux.png)
+![Daylight Behavior](images/medianlux.jpg)
 
-![ASE](images/ASE.png)
+![ASE](images/ASE.jpg)
 
-![SDA](images/SDA.png)
+![SDA](images/SDA.jpg)
 
 ---
 
