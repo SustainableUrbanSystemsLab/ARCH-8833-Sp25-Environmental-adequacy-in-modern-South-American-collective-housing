@@ -113,17 +113,22 @@ Key findings:
 ---
 
 ## 📁 Repository Structure
+```
 .
-├─ src/
-│  ├─ 01_prompt_llm.py
-│  ├─ 02_parse_mesh.py
-│  └─ 03_mesh_to_ifc.py
-├─ examples/
-│  ├─ bim_object.ifc
-│  ├─ obj_mess.txt
-│  └─ parsed_mesh.txt
-├─ requirements.txt
-└─ README.md
-
+├── data
+│   ├── jnavarrete_daylightanalysis_LA...
+│   └── jnavarrete_literaturereview_LAM...
+├── images
+│   ├── ASE.jpg
+│   ├── SDA.jpg
+│   ├── comparison.jpg
+│   └── medianlux.png
+├── scripts
+│   ├── gh_brisesoleil.gh
+│   ├── gh_brisesoleilhorizontal.gh
+│   ├── gh_musharabyah.gh
+│   └── README.md
+└── SustainableArchitecture_JNavarrete.gh
+```
    
 
