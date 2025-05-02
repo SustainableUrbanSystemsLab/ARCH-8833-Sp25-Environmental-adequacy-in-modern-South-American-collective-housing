@@ -114,6 +114,15 @@ Key findings:
 
 ## 📁 Repository Structure
 
+README.md
+DaylightLatamModernArchitecture_JNavarrete.pdf
+/IMAGES
+   
+      
+   GRASSHOPPER
+
+   MODELS
 
 
+   
 
