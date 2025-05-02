@@ -79,7 +79,7 @@ Key findings:
 - Orientation (angle from North) plays a significant role in performance—even without shading devices.
 - High ASE and variation = poor environmental adequacy (e.g., Reidy’s Pedregulho).
 
-![Daylight Behavior](images/medianlux.jpg)
+![Daylight Behavior](images/medianlux.png)
 
 ![ASE](images/ASE.jpg)
 
