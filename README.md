@@ -18,7 +18,7 @@ A preliminary review of 150 publications was conducted using the terms:
 - `Latin American modern architecture` + `daylight`, `thermal`, `cooling`
 - Sources were filtered by title relevance, abstract content, and full review readiness.
 
-> See `data/lit_review_summary.csv` for full screening data.
+> See `data/jnavarrete_literaturereview_LAModern.xlsx` for full screening data.
 
 ### 2. 🏛️ Building Selection
 
@@ -36,15 +36,14 @@ From 48 projects in the 1955 MoMA catalog, 6 were selected based on:
 | Cintra, Bristol & Caledônia | Lúcio Costa | Rio de Janeiro | 1953 |
 | Montserrat | Benacerraf & Guinand | Caracas | 1950 |
 
-![Map of Building Locations](images/building_map.png) <!-- Add your map -->
-
 ---
 
 ### 3. 🖥️ Simulation Procedure
 
 All daylight simulations were performed using **Solemma’s ClimateStudio** with models created in **Rhinoceros 8** + **Grasshopper**. Scripts for facade devices are provided:
 
-- `scripts/brise_soleil.gh`
+- `scripts/brisesoleil.gh`
+- `scripts/brisesoleilhorizontal.gh`
 - `scripts/musharabya.gh`
 
 **Modeling assumptions:**
@@ -62,9 +61,6 @@ Materials used:
 - Wood Floor
 - Clear-clear glazing
 - Dupont Clay
-
-![Example Rhino Model](images/rhino_model_example.png)
-
 
 ---
 
@@ -95,7 +91,8 @@ Key findings:
 
 1. 🧾 **Download Files**
    - Clone this repo or download ZIP.
-   - Get `rhino_models/`, `scripts/`, and `data/`.
+   - Get `models/`, `scripts/`, and `data/`.
+   - For the model of Pedregulho, please download in the following link (too heavy for Github):
 
 2. 💻 **Install Tools**
    - Rhino 8 with Grasshopper
@@ -110,9 +107,8 @@ Key findings:
      - Dec 21 (Winter Solstice)
 
 4. 📈 **Analyze Results**
-   - Use `results/data_summary.csv`
-   - Refer to `results/plots/` for visualizations
-   - Reproduce figures using the provided Python notebooks in `analysis/`
+   - Use `data/daylightanalysis_LaModern.xlsx` for data organization
+   - Data visualization is already set up in the spreadsheet.
 
 ---
 
