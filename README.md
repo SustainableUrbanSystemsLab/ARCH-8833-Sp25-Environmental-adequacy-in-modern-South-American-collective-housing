@@ -113,16 +113,17 @@ Key findings:
 ---
 
 ## 📁 Repository Structure
-
-README.md
-DaylightLatamModernArchitecture_JNavarrete.pdf
-/IMAGES
-   
-      
-   GRASSHOPPER
-
-   MODELS
-
+.
+├─ src/
+│  ├─ 01_prompt_llm.py
+│  ├─ 02_parse_mesh.py
+│  └─ 03_mesh_to_ifc.py
+├─ examples/
+│  ├─ bim_object.ifc
+│  ├─ obj_mess.txt
+│  └─ parsed_mesh.txt
+├─ requirements.txt
+└─ README.md
 
    
 
